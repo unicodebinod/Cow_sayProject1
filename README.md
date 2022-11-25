@@ -18,7 +18,7 @@ we use the os.Args array to retrieve the first argument (index 0). Since the fir
 
 # Collabration:
 In main.go written code is dicived into 3 parts :
-line 11-14: scannerfunction,line 18-19,24-25:forloop for the Speech bubble,line 21-22:text inside the Speech bubble.
+line 12-17:os.Args, line 18-19, line24-25:forloop(for the Speech bubble), line 21-22:text inside the Speech bubble.
 ***
 # github:
 https://github.com/unicodebinod
